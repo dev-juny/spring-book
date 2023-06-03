@@ -24,4 +24,5 @@ Connection 정보를 바꾸게 되면 어떻게 될까? - 생각만해도 끔찍
 - 명확한 해결방법은 UserDaoTest라는 Client Class를 신규로 생성하여 DB Connection을 할 수 있도록 한다.
 
 1.7.2 런타임 의존관계 설정
+
 1.7.3 의존관계 검색과 주입
